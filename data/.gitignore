@@ -1,0 +1,4 @@
+*
+!.gitignore
+!mnist/
+mnist_guess_number/

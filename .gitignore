@@ -1,0 +1,7 @@
+!.gitignore
+*.pyc
+test.jpg
+__pycache__
+*.sublime*
+!LICENSE.txt
+.DS_Store
