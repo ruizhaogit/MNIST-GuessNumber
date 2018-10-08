@@ -22,6 +22,8 @@ We designed this MNIST guess-number game and used it in our paper "Efficient Dia
 
 The paper is accepted by 2018 IEEE Spoken Language Technology (SLT) (forthcoming).
 
+The preprint version of the paper is avaliable at: https://arxiv.org/abs/1810.01371
+
 
 
 ## Usage:  
@@ -31,6 +33,19 @@ python generate_dataset.py
 ```
 
 Then you can find the generated images and dialogs in the data folder :)
+
+## Citation:
+
+Citation of the preprint version:
+
+```
+@article{zhao2018efficient,
+  title={Efficient Dialog Policy Learning via Positive Memory Retention},
+  author={Zhao, Rui and Tresp, Volker},
+  journal={arXiv preprint arXiv:1810.01371},
+  year={2018}
+}
+```
 
 ## Licence:
 
